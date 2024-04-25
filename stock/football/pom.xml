@@ -79,9 +79,14 @@
 			<artifactId>h2</artifactId>
 			<scope>runtime</scope>
 		</dependency>
-		
-	
-		
+
+
+
+		<dependency>
+			<groupId>com.dolsoft</groupId>
+			<artifactId>configserver</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
